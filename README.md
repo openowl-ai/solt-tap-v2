@@ -1,1 +1,1 @@
-# solt-tap-v2
+# SolTap
